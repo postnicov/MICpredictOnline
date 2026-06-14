@@ -1,0 +1,882 @@
+Fingerprint,Description
+PubchemFP1,>= 4 H
+PubchemFP2,>= 8 H
+PubchemFP3,>= 16 H
+PubchemFP4,>= 32 H
+PubchemFP5,>= 1 Li
+PubchemFP6,>= 2 Li
+PubchemFP7,>= 1 B
+PubchemFP8,>= 2 B
+PubchemFP9,>= 4 B
+PubchemFP10,>= 2 C
+PubchemFP11,>= 4 C
+PubchemFP12,>= 8 C
+PubchemFP13,>= 16 C
+PubchemFP14,>= 32 C
+PubchemFP15,>= 1 N
+PubchemFP16,>= 2 N
+PubchemFP17,>= 4 N
+PubchemFP18,>= 8 N
+PubchemFP19,>= 1 O
+PubchemFP20,>= 2 O
+PubchemFP21,>= 4 O
+PubchemFP22,>= 8 O
+PubchemFP23,>= 16 O
+PubchemFP24,>= 1 F
+PubchemFP25,>= 2 F
+PubchemFP26,>= 4 F
+PubchemFP27,>= 1 Na
+PubchemFP28,>= 2 Na
+PubchemFP29,>= 1 Si
+PubchemFP30,>= 2 Si
+PubchemFP31,>= 1 P
+PubchemFP32,>= 2 P
+PubchemFP33,>= 4 P
+PubchemFP34,>= 1 S
+PubchemFP35,>= 2 S
+PubchemFP36,>= 4 S
+PubchemFP37,>= 8 S
+PubchemFP38,>= 1 Cl
+PubchemFP39,>= 2 Cl
+PubchemFP40,>= 4 Cl
+PubchemFP41,>= 8 Cl
+PubchemFP42,>= 1 K
+PubchemFP43,>= 2 K
+PubchemFP44,>= 1 Br
+PubchemFP45,>= 2 Br
+PubchemFP46,>= 4 Br
+PubchemFP47,>= 1 I
+PubchemFP48,>= 2 I
+PubchemFP49,>= 4 I
+PubchemFP50,>= 1 Be
+PubchemFP51,>= 1 Mg
+PubchemFP52,>= 1 Al
+PubchemFP53,>= 1 Ca
+PubchemFP54,>= 1 Sc
+PubchemFP55,>= 1 Ti
+PubchemFP56,>= 1 V
+PubchemFP57,>= 1 Cr
+PubchemFP58,>= 1 Mn
+PubchemFP59,>= 1 Fe
+PubchemFP60,>= 1 Co
+PubchemFP61,>= 1 Ni
+PubchemFP62,>= 1 Cu
+PubchemFP63,>= 1 Zn
+PubchemFP64,>= 1 Ga
+PubchemFP65,>= 1 Ge
+PubchemFP66,>= 1 As
+PubchemFP67,>= 1 Se
+PubchemFP68,>= 1 Kr
+PubchemFP69,>= 1 Rb
+PubchemFP70,>= 1 Sr
+PubchemFP71,>= 1 Y
+PubchemFP72,>= 1 Zr
+PubchemFP73,>= 1 Nb
+PubchemFP74,>= 1 Mo
+PubchemFP75,>= 1 Ru
+PubchemFP76,>= 1 Rh
+PubchemFP77,>= 1 Pd
+PubchemFP78,>= 1 Ag
+PubchemFP79,>= 1 Cd
+PubchemFP80,>= 1 In
+PubchemFP81,>= 1 Sn
+PubchemFP82,>= 1 Sb
+PubchemFP83,>= 1 Te
+PubchemFP84,>= 1 Xe
+PubchemFP85,>= 1 Cs
+PubchemFP86,>= 1 Ba
+PubchemFP87,>= 1 Lu
+PubchemFP88,>= 1 Hf
+PubchemFP89,>= 1 Ta
+PubchemFP90,>= 1 W
+PubchemFP91,>= 1 Re
+PubchemFP92,>= 1 Os
+PubchemFP93,>= 1 Ir
+PubchemFP94,>= 1 Pt
+PubchemFP95,>= 1 Au
+PubchemFP96,>= 1 Hg
+PubchemFP97,>= 1 Tl
+PubchemFP98,>= 1 Pb
+PubchemFP99,>= 1 Bi
+PubchemFP100,>= 1 La
+PubchemFP101,>= 1 Ce
+PubchemFP102,>= 1 Pr
+PubchemFP103,>= 1 Nd
+PubchemFP104,>= 1 Pm
+PubchemFP105,>= 1 Sm
+PubchemFP106,>= 1 Eu
+PubchemFP107,>= 1 Gd
+PubchemFP108,>= 1 Tb
+PubchemFP109,>= 1 Dy
+PubchemFP110,>= 1 Ho
+PubchemFP111,>= 1 Er
+PubchemFP112,>= 1 Tm
+PubchemFP113,>= 1 Yb
+PubchemFP114,>= 1 Tc
+PubchemFP115,>= 1 U
+PubchemFP116,>= 1 any ring size 3
+PubchemFP117,>= 1 saturated or aromatic carbon-only ring size 3
+PubchemFP118,>= 1 saturated or aromatic nitrogen-containing ring size 3
+PubchemFP119,>= 1 saturated or aromatic heteroatom-containing ring size 3
+PubchemFP120,>= 1 unsaturated non-aromatic carbon-only ring size 3
+PubchemFP121,>= 1 unsaturated non-aromatic nitrogen-containing ring size 3
+PubchemFP122,>= 1 unsaturated non-aromatic heteroatom-containing ring size 3
+PubchemFP123,>= 2 any ring size 3
+PubchemFP124,>= 2 saturated or aromatic carbon-only ring size 3
+PubchemFP125,>= 2 saturated or aromatic nitrogen-containing ring size 3
+PubchemFP126,>= 2 saturated or aromatic heteroatom-containing ring size 3
+PubchemFP127,>= 2 unsaturated non-aromatic carbon-only ring size 3
+PubchemFP128,>= 2 unsaturated non-aromatic nitrogen-containing ring size 3
+PubchemFP129,>= 2 unsaturated non-aromatic heteroatom-containing ring size 3
+PubchemFP130,>= 1 any ring size 4
+PubchemFP131,>= 1 saturated or aromatic carbon-only ring size 4
+PubchemFP132,>= 1 saturated or aromatic nitrogen-containing ring size 4
+PubchemFP133,>= 1 saturated or aromatic heteroatom-containing ring size 4
+PubchemFP134,>= 1 unsaturated non-aromatic carbon-only ring size 4
+PubchemFP135,>= 1 unsaturated non-aromatic nitrogen-containing ring size 4
+PubchemFP136,>= 1 unsaturated non-aromatic heteroatom-containing ring size 4
+PubchemFP137,>= 2 any ring size 4
+PubchemFP138,>= 2 saturated or aromatic carbon-only ring size 4
+PubchemFP139,>= 2 saturated or aromatic nitrogen-containing ring size 4
+PubchemFP140,>= 2 saturated or aromatic heteroatom-containing ring size 4
+PubchemFP141,>= 2 unsaturated non-aromatic carbon-only ring size 4
+PubchemFP142,>= 2 unsaturated non-aromatic nitrogen-containing ring size 4
+PubchemFP143,>= 2 unsaturated non-aromatic heteroatom-containing ring size 4
+PubchemFP144,>= 1 any ring size 5
+PubchemFP145,>= 1 saturated or aromatic carbon-only ring size 5
+PubchemFP146,>= 1 saturated or aromatic nitrogen-containing ring size 5
+PubchemFP147,>= 1 saturated or aromatic heteroatom-containing ring size 5
+PubchemFP148,>= 1 unsaturated non-aromatic carbon-only ring size 5
+PubchemFP149,>= 1 unsaturated non-aromatic nitrogen-containing ring size 5
+PubchemFP150,>= 1 unsaturated non-aromatic heteroatom-containing ring size 5
+PubchemFP151,>= 2 any ring size 5
+PubchemFP152,>= 2 saturated or aromatic carbon-only ring size 5
+PubchemFP153,>= 2 saturated or aromatic nitrogen-containing ring size 5
+PubchemFP154,>= 2 saturated or aromatic heteroatom-containing ring size 5
+PubchemFP155,>= 2 unsaturated non-aromatic carbon-only ring size 5
+PubchemFP156,>= 2 unsaturated non-aromatic nitrogen-containing ring size 5
+PubchemFP157,>= 2 unsaturated non-aromatic heteroatom-containing ring size 5
+PubchemFP158,>= 3 any ring size 5
+PubchemFP159,>= 3 saturated or aromatic carbon-only ring size 5
+PubchemFP160,>= 3 saturated or aromatic nitrogen-containing ring size 5
+PubchemFP161,>= 3 saturated or aromatic heteroatom-containing ring size 5
+PubchemFP162,>= 3 unsaturated non-aromatic carbon-only ring size 5
+PubchemFP163,>= 3 unsaturated non-aromatic nitrogen-containing ring size 5
+PubchemFP164,>= 3 unsaturated non-aromatic heteroatom-containing ring size 5
+PubchemFP165,>= 4 any ring size 5
+PubchemFP166,>= 4 saturated or aromatic carbon-only ring size 5
+PubchemFP167,>= 4 saturated or aromatic nitrogen-containing ring size 5
+PubchemFP168,>= 4 saturated or aromatic heteroatom-containing ring size 5
+PubchemFP169,>= 4 unsaturated non-aromatic carbon-only ring size 5
+PubchemFP170,>= 4 unsaturated non-aromatic nitrogen-containing ring size 5
+PubchemFP171,>= 4 unsaturated non-aromatic heteroatom-containing ring size 5
+PubchemFP172,>= 5 any ring size 5
+PubchemFP173,>= 5 saturated or aromatic carbon-only ring size 5
+PubchemFP174,>= 5 saturated or aromatic nitrogen-containing ring size 5
+PubchemFP175,>= 5 saturated or aromatic heteroatom-containing ring size 5
+PubchemFP176,>= 5 unsaturated non-aromatic carbon-only ring size 5
+PubchemFP177,>= 5 unsaturated non-aromatic nitrogen-containing ring size 5
+PubchemFP178,>= 5 unsaturated non-aromatic heteroatom-containing ring size 5
+PubchemFP179,>= 1 any ring size 6
+PubchemFP180,>= 1 saturated or aromatic carbon-only ring size 6
+PubchemFP181,>= 1 saturated or aromatic nitrogen-containing ring size 6
+PubchemFP182,>= 1 saturated or aromatic heteroatom-containing ring size 6
+PubchemFP183,>= 1 unsaturated non-aromatic carbon-only ring size 6
+PubchemFP184,>= 1 unsaturated non-aromatic nitrogen-containing ring size 6
+PubchemFP185,>= 1 unsaturated non-aromatic heteroatom-containing ring size 6
+PubchemFP186,>= 2 any ring size 6
+PubchemFP187,>= 2 saturated or aromatic carbon-only ring size 6
+PubchemFP188,>= 2 saturated or aromatic nitrogen-containing ring size 6
+PubchemFP189,>= 2 saturated or aromatic heteroatom-containing ring size 6
+PubchemFP190,>= 2 unsaturated non-aromatic carbon-only ring size 6
+PubchemFP191,>= 2 unsaturated non-aromatic nitrogen-containing ring size 6
+PubchemFP192,>= 2 unsaturated non-aromatic heteroatom-containing ring size 6
+PubchemFP193,>= 3 any ring size 6
+PubchemFP194,>= 3 saturated or aromatic carbon-only ring size 6
+PubchemFP195,>= 3 saturated or aromatic nitrogen-containing ring size 6
+PubchemFP196,>= 3 saturated or aromatic heteroatom-containing ring size 6
+PubchemFP197,>= 3 unsaturated non-aromatic carbon-only ring size 6
+PubchemFP198,>= 3 unsaturated non-aromatic nitrogen-containing ring size 6
+PubchemFP199,>= 3 unsaturated non-aromatic heteroatom-containing ring size 6
+PubchemFP200,>= 4 any ring size 6
+PubchemFP201,>= 4 saturated or aromatic carbon-only ring size 6
+PubchemFP202,>= 4 saturated or aromatic nitrogen-containing ring size 6
+PubchemFP203,>= 4 saturated or aromatic heteroatom-containing ring size 6
+PubchemFP204,>= 4 unsaturated non-aromatic carbon-only ring size 6
+PubchemFP205,>= 4 unsaturated non-aromatic nitrogen-containing ring size 6
+PubchemFP206,>= 4 unsaturated non-aromatic heteroatom-containing ring size 6
+PubchemFP207,>= 5 any ring size 6
+PubchemFP208,>= 5 saturated or aromatic carbon-only ring size 6
+PubchemFP209,>= 5 saturated or aromatic nitrogen-containing ring size 6
+PubchemFP210,>= 5 saturated or aromatic heteroatom-containing ring size 6
+PubchemFP211,>= 5 unsaturated non-aromatic carbon-only ring size 6
+PubchemFP212,>= 5 unsaturated non-aromatic nitrogen-containing ring size 6
+PubchemFP213,>= 5 unsaturated non-aromatic heteroatom-containing ring size 6
+PubchemFP214,>= 1 any ring size 7
+PubchemFP215,>= 1 saturated or aromatic carbon-only ring size 7
+PubchemFP216,>= 1 saturated or aromatic nitrogen-containing ring size 7
+PubchemFP217,>= 1 saturated or aromatic heteroatom-containing ring size 7
+PubchemFP218,>= 1 unsaturated non-aromatic carbon-only ring size 7
+PubchemFP219,>= 1 unsaturated non-aromatic nitrogen-containing ring size 7
+PubchemFP220,>= 1 unsaturated non-aromatic heteroatom-containing ring size 7
+PubchemFP221,>= 2 any ring size 7
+PubchemFP222,>= 2 saturated or aromatic carbon-only ring size 7
+PubchemFP223,>= 2 saturated or aromatic nitrogen-containing ring size 7
+PubchemFP224,>= 2 saturated or aromatic heteroatom-containing ring size 7
+PubchemFP225,>= 2 unsaturated non-aromatic carbon-only ring size 7
+PubchemFP226,>= 2 unsaturated non-aromatic nitrogen-containing ring size 7
+PubchemFP227,>= 2 unsaturated non-aromatic heteroatom-containing ring size 7
+PubchemFP228,>= 1 any ring size 8
+PubchemFP229,>= 1 saturated or aromatic carbon-only ring size 8
+PubchemFP230,>= 1 saturated or aromatic nitrogen-containing ring size 8
+PubchemFP231,>= 1 saturated or aromatic heteroatom-containing ring size 8
+PubchemFP232,>= 1 unsaturated non-aromatic carbon-only ring size 8
+PubchemFP233,>= 1 unsaturated non-aromatic nitrogen-containing ring size 8
+PubchemFP234,>= 1 unsaturated non-aromatic heteroatom-containing ring size 8
+PubchemFP235,>= 2 any ring size 8
+PubchemFP236,>= 2 saturated or aromatic carbon-only ring size 8
+PubchemFP237,>= 2 saturated or aromatic nitrogen-containing ring size 8
+PubchemFP238,>= 2 saturated or aromatic heteroatom-containing ring size 8
+PubchemFP239,>= 2 unsaturated non-aromatic carbon-only ring size 8
+PubchemFP240,>= 2 unsaturated non-aromatic nitrogen-containing ring size 8
+PubchemFP241,>= 2 unsaturated non-aromatic heteroatom-containing ring size 8
+PubchemFP242,>= 1 any ring size 9
+PubchemFP243,>= 1 saturated or aromatic carbon-only ring size 9
+PubchemFP244,>= 1 saturated or aromatic nitrogen-containing ring size 9
+PubchemFP245,>= 1 saturated or aromatic heteroatom-containing ring size 9
+PubchemFP246,>= 1 unsaturated non-aromatic carbon-only ring size 9
+PubchemFP247,>= 1 unsaturated non-aromatic nitrogen-containing ring size 9
+PubchemFP248,>= 1 unsaturated non-aromatic heteroatom-containing ring size 9
+PubchemFP249,>= 1 any ring size 10
+PubchemFP250,>= 1 saturated or aromatic carbon-only ring size 10
+PubchemFP251,>= 1 saturated or aromatic nitrogen-containing ring size 10
+PubchemFP252,>= 1 saturated or aromatic heteroatom-containing ring size 10
+PubchemFP253,>= 1 unsaturated non-aromatic carbon-only ring size 10
+PubchemFP254,>= 1 unsaturated non-aromatic nitrogen-containing ring size 10
+PubchemFP255,>= 1 unsaturated non-aromatic heteroatom-containing ring size 10
+PubchemFP256,>= 1 aromatic ring
+PubchemFP257,>= 1 hetero-aromatic ring
+PubchemFP258,>= 2 aromatic rings
+PubchemFP259,>= 2 hetero-aromatic rings
+PubchemFP260,>= 3 aromatic rings
+PubchemFP261,>= 3 hetero-aromatic rings
+PubchemFP262,>= 4 aromatic rings
+PubchemFP263,>= 4 hetero-aromatic rings
+PubchemFP264,Li-H
+PubchemFP265,Li-Li
+PubchemFP266,Li-B
+PubchemFP267,Li-C
+PubchemFP268,Li-O
+PubchemFP269,Li-F
+PubchemFP270,Li-P
+PubchemFP271,Li-S
+PubchemFP272,Li-Cl
+PubchemFP273,B-H
+PubchemFP274,B-B
+PubchemFP275,B-C
+PubchemFP276,B-N
+PubchemFP277,B-O
+PubchemFP278,B-F
+PubchemFP279,B-Si
+PubchemFP280,B-P
+PubchemFP281,B-S
+PubchemFP282,B-Cl
+PubchemFP283,B-Br
+PubchemFP284,C-H
+PubchemFP285,C-C
+PubchemFP286,C-N
+PubchemFP287,C-O
+PubchemFP288,C-F
+PubchemFP289,C-Na
+PubchemFP290,C-Mg
+PubchemFP291,C-Al
+PubchemFP292,C-Si
+PubchemFP293,C-P
+PubchemFP294,C-S
+PubchemFP295,C-Cl
+PubchemFP296,C-As
+PubchemFP297,C-Se
+PubchemFP298,C-Br
+PubchemFP299,C-I
+PubchemFP300,N-H
+PubchemFP301,N-N
+PubchemFP302,N-O
+PubchemFP303,N-F
+PubchemFP304,N-Si
+PubchemFP305,N-P
+PubchemFP306,N-S
+PubchemFP307,N-Cl
+PubchemFP308,N-Br
+PubchemFP309,O-H
+PubchemFP310,O-O
+PubchemFP311,O-Mg
+PubchemFP312,O-Na
+PubchemFP313,O-Al
+PubchemFP314,O-Si
+PubchemFP315,O-P
+PubchemFP316,O-K
+PubchemFP317,F-P
+PubchemFP318,F-S
+PubchemFP319,Al-H
+PubchemFP320,Al-Cl
+PubchemFP321,Si-H
+PubchemFP322,Si-Si
+PubchemFP323,Si-Cl
+PubchemFP324,P-H
+PubchemFP325,P-P
+PubchemFP326,As-H
+PubchemFP327,As-As
+PubchemFP328,C(~Br)(~C)
+PubchemFP329,C(~Br)(~C)(~C)
+PubchemFP330,C(~Br)(~H)
+PubchemFP331,C(~Br)(:C)
+PubchemFP332,C(~Br)(:N)
+PubchemFP333,C(~C)(~C)
+PubchemFP334,C(~C)(~C)(~C)
+PubchemFP335,C(~C)(~C)(~C)(~C)
+PubchemFP336,C(~C)(~C)(~C)(~H)
+PubchemFP337,C(~C)(~C)(~C)(~N)
+PubchemFP338,C(~C)(~C)(~C)(~O)
+PubchemFP339,C(~C)(~C)(~H)(~N)
+PubchemFP340,C(~C)(~C)(~H)(~O)
+PubchemFP341,C(~C)(~C)(~N)
+PubchemFP342,C(~C)(~C)(~O)
+PubchemFP343,C(~C)(~Cl)
+PubchemFP344,C(~C)(~Cl)(~H)
+PubchemFP345,C(~C)(~H)
+PubchemFP346,C(~C)(~H)(~N)
+PubchemFP347,C(~C)(~H)(~O)
+PubchemFP348,C(~C)(~H)(~O)(~O)
+PubchemFP349,C(~C)(~H)(~P)
+PubchemFP350,C(~C)(~H)(~S)
+PubchemFP351,C(~C)(~I)
+PubchemFP352,C(~C)(~N)
+PubchemFP353,C(~C)(~O)
+PubchemFP354,C(~C)(~S)
+PubchemFP355,C(~C)(~Si)
+PubchemFP356,C(~C)(:C)
+PubchemFP357,C(~C)(:C)(:C)
+PubchemFP358,C(~C)(:C)(:N)
+PubchemFP359,C(~C)(:N)
+PubchemFP360,C(~C)(:N)(:N)
+PubchemFP361,C(~Cl)(~Cl)
+PubchemFP362,C(~Cl)(~H)
+PubchemFP363,C(~Cl)(:C)
+PubchemFP364,C(~F)(~F)
+PubchemFP365,C(~F)(:C)
+PubchemFP366,C(~H)(~N)
+PubchemFP367,C(~H)(~O)
+PubchemFP368,C(~H)(~O)(~O)
+PubchemFP369,C(~H)(~S)
+PubchemFP370,C(~H)(~Si)
+PubchemFP371,C(~H)(:C)
+PubchemFP372,C(~H)(:C)(:C)
+PubchemFP373,C(~H)(:C)(:N)
+PubchemFP374,C(~H)(:N)
+PubchemFP375,C(~H)(~H)(~H)
+PubchemFP376,C(~N)(~N)
+PubchemFP377,C(~N)(:C)
+PubchemFP378,C(~N)(:C)(:C)
+PubchemFP379,C(~N)(:C)(:N)
+PubchemFP380,C(~N)(:N)
+PubchemFP381,C(~O)(~O)
+PubchemFP382,C(~O)(:C)
+PubchemFP383,C(~O)(:C)(:C)
+PubchemFP384,C(~S)(:C)
+PubchemFP385,C(:C)(:C)
+PubchemFP386,C(:C)(:C)(:C)
+PubchemFP387,C(:C)(:C)(:N)
+PubchemFP388,C(:C)(:N)
+PubchemFP389,C(:C)(:N)(:N)
+PubchemFP390,C(:N)(:N)
+PubchemFP391,N(~C)(~C)
+PubchemFP392,N(~C)(~C)(~C)
+PubchemFP393,N(~C)(~C)(~H)
+PubchemFP394,N(~C)(~H)
+PubchemFP395,N(~C)(~H)(~N)
+PubchemFP396,N(~C)(~O)
+PubchemFP397,N(~C)(:C)
+PubchemFP398,N(~C)(:C)(:C)
+PubchemFP399,N(~H)(~N)
+PubchemFP400,N(~H)(:C)
+PubchemFP401,N(~H)(:C)(:C)
+PubchemFP402,N(~O)(~O)
+PubchemFP403,N(~O)(:O)
+PubchemFP404,N(:C)(:C)
+PubchemFP405,N(:C)(:C)(:C)
+PubchemFP406,O(~C)(~C)
+PubchemFP407,O(~C)(~H)
+PubchemFP408,O(~C)(~P)
+PubchemFP409,O(~H)(~S)
+PubchemFP410,O(:C)(:C)
+PubchemFP411,P(~C)(~C)
+PubchemFP412,P(~O)(~O)
+PubchemFP413,S(~C)(~C)
+PubchemFP414,S(~C)(~H)
+PubchemFP415,S(~C)(~O)
+PubchemFP416,Si(~C)(~C)
+PubchemFP417,C=C
+PubchemFP418,C#C
+PubchemFP419,C=N
+PubchemFP420,C#N
+PubchemFP421,C=O
+PubchemFP422,C=S
+PubchemFP423,N=N
+PubchemFP424,N=O
+PubchemFP425,N=P
+PubchemFP426,P=O
+PubchemFP427,P=P
+PubchemFP428,C(#C)(-C)
+PubchemFP429,C(#C)(-H)
+PubchemFP430,C(#N)(-C)
+PubchemFP431,C(-C)(-C)(=C)
+PubchemFP432,C(-C)(-C)(=N)
+PubchemFP433,C(-C)(-C)(=O)
+PubchemFP434,C(-C)(-Cl)(=O)
+PubchemFP435,C(-C)(-H)(=C)
+PubchemFP436,C(-C)(-H)(=N)
+PubchemFP437,C(-C)(-H)(=O)
+PubchemFP438,C(-C)(-N)(=C)
+PubchemFP439,C(-C)(-N)(=N)
+PubchemFP440,C(-C)(-N)(=O)
+PubchemFP441,C(-C)(-O)(=O)
+PubchemFP442,C(-C)(=C)
+PubchemFP443,C(-C)(=N)
+PubchemFP444,C(-C)(=O)
+PubchemFP445,C(-Cl)(=O)
+PubchemFP446,C(-H)(-N)(=C)
+PubchemFP447,C(-H)(=C)
+PubchemFP448,C(-H)(=N)
+PubchemFP449,C(-H)(=O)
+PubchemFP450,C(-N)(=C)
+PubchemFP451,C(-N)(=N)
+PubchemFP452,C(-N)(=O)
+PubchemFP453,C(-O)(=O)
+PubchemFP454,N(-C)(=C)
+PubchemFP455,N(-C)(=O)
+PubchemFP456,N(-O)(=O)
+PubchemFP457,P(-O)(=O)
+PubchemFP458,S(-C)(=O)
+PubchemFP459,S(-O)(=O)
+PubchemFP460,S(=O)(=O)
+PubchemFP461,C-C-C#C
+PubchemFP462,O-C-C=N
+PubchemFP463,O-C-C=O
+PubchemFP464,N:C-S-[#1]
+PubchemFP465,N-C-C=C
+PubchemFP466,O=S-C-C
+PubchemFP467,N#C-C=C
+PubchemFP468,C=N-N-C
+PubchemFP469,O=S-C-N
+PubchemFP470,S-S-C:C
+PubchemFP471,C:C-C=C
+PubchemFP472,S:C:C:C
+PubchemFP473,C:N:C-C
+PubchemFP474,S-C:N:C
+PubchemFP475,S:C:C:N
+PubchemFP476,S-C=N-C
+PubchemFP477,C-O-C=C
+PubchemFP478,N-N-C:C
+PubchemFP479,S-C=N-[#1]
+PubchemFP480,S-C-S-C
+PubchemFP481,C:S:C-C
+PubchemFP482,O-S-C:C
+PubchemFP483,C:N-C:C
+PubchemFP484,N-S-C:C
+PubchemFP485,N-C:N:C
+PubchemFP486,N:C:C:N
+PubchemFP487,N-C:N:N
+PubchemFP488,N-C=N-C
+PubchemFP489,N-C=N-[#1]
+PubchemFP490,N-C-S-C
+PubchemFP491,C-C-C=C
+PubchemFP492,C-N:C-[#1]
+PubchemFP493,N-C:O:C
+PubchemFP494,O=C-C:C
+PubchemFP495,O=C-C:N
+PubchemFP496,C-N-C:C
+PubchemFP497,N:N-C-[#1]
+PubchemFP498,O-C:C:N
+PubchemFP499,O-C=C-C
+PubchemFP500,N-C:C:N
+PubchemFP501,C-S-C:C
+PubchemFP502,Cl-C:C-C
+PubchemFP503,N-C=C-[#1]
+PubchemFP504,Cl-C:C-[#1]
+PubchemFP505,N:C:N-C
+PubchemFP506,Cl-C:C-O
+PubchemFP507,C-C:N:C
+PubchemFP508,C-C-S-C
+PubchemFP509,S=C-N-C
+PubchemFP510,Br-C:C-C
+PubchemFP511,[#1]-N-N-[#1]
+PubchemFP512,S=C-N-[#1]
+PubchemFP513,C-[As]-O-[#1]
+PubchemFP514,S:C:C-[#1]
+PubchemFP515,O-N-C-C
+PubchemFP516,N-N-C-C
+PubchemFP517,[#1]-C=C-[#1]
+PubchemFP518,N-N-C-N
+PubchemFP519,O=C-N-N
+PubchemFP520,N=C-N-C
+PubchemFP521,C=C-C:C
+PubchemFP522,C:N-C-[#1]
+PubchemFP523,C-N-N-[#1]
+PubchemFP524,N:C:C-C
+PubchemFP525,C-C=C-C
+PubchemFP526,[As]-C:C-[#1]
+PubchemFP527,Cl-C:C-Cl
+PubchemFP528,C:C:N-[#1]
+PubchemFP529,[#1]-N-C-[#1]
+PubchemFP530,Cl-C-C-Cl
+PubchemFP531,N:C-C:C
+PubchemFP532,S-C:C-C
+PubchemFP533,S-C:C-[#1]
+PubchemFP534,S-C:C-N
+PubchemFP535,S-C:C-O
+PubchemFP536,O=C-C-C
+PubchemFP537,O=C-C-N
+PubchemFP538,O=C-C-O
+PubchemFP539,N=C-C-C
+PubchemFP540,N=C-C-[#1]
+PubchemFP541,C-N-C-[#1]
+PubchemFP542,O-C:C-C
+PubchemFP543,O-C:C-[#1]
+PubchemFP544,O-C:C-N
+PubchemFP545,O-C:C-O
+PubchemFP546,N-C:C-C
+PubchemFP547,N-C:C-[#1]
+PubchemFP548,N-C:C-N
+PubchemFP549,O-C-C:C
+PubchemFP550,N-C-C:C
+PubchemFP551,Cl-C-C-C
+PubchemFP552,Cl-C-C-O
+PubchemFP553,C:C-C:C
+PubchemFP554,O=C-C=C
+PubchemFP555,Br-C-C-C
+PubchemFP556,N=C-C=C
+PubchemFP557,C=C-C-C
+PubchemFP558,N:C-O-[#1]
+PubchemFP559,O=N-C:C
+PubchemFP560,O-C-N-[#1]
+PubchemFP561,N-C-N-C
+PubchemFP562,Cl-C-C=O
+PubchemFP563,Br-C-C=O
+PubchemFP564,O-C-O-C
+PubchemFP565,C=C-C=C
+PubchemFP566,C:C-O-C
+PubchemFP567,O-C-C-N
+PubchemFP568,O-C-C-O
+PubchemFP569,N#C-C-C
+PubchemFP570,N-C-C-N
+PubchemFP571,C:C-C-C
+PubchemFP572,[#1]-C-O-[#1]
+PubchemFP573,N:C:N:C
+PubchemFP574,O-C-C=C
+PubchemFP575,O-C-C:C-C
+PubchemFP576,O-C-C:C-O
+PubchemFP577,N=C-C:C-[#1]
+PubchemFP578,C:C-N-C:C
+PubchemFP579,C-C:C-C:C
+PubchemFP580,O=C-C-C-C
+PubchemFP581,O=C-C-C-N
+PubchemFP582,O=C-C-C-O
+PubchemFP583,C-C-C-C-C
+PubchemFP584,Cl-C:C-O-C
+PubchemFP585,C:C-C=C-C
+PubchemFP586,C-C:C-N-C
+PubchemFP587,C-S-C-C-C
+PubchemFP588,N-C:C-O-[#1]
+PubchemFP589,O=C-C-C=O
+PubchemFP590,C-C:C-O-C
+PubchemFP591,C-C:C-O-[#1]
+PubchemFP592,Cl-C-C-C-C
+PubchemFP593,N-C-C-C-C
+PubchemFP594,N-C-C-C-N
+PubchemFP595,C-O-C-C=C
+PubchemFP596,C:C-C-C-C
+PubchemFP597,N=C-N-C-C
+PubchemFP598,O=C-C-C:C
+PubchemFP599,Cl-C:C:C-C
+PubchemFP600,[#1]-C-C=C-[#1]
+PubchemFP601,N-C:C:C-C
+PubchemFP602,N-C:C:C-N
+PubchemFP603,O=C-C-N-C
+PubchemFP604,C-C:C:C-C
+PubchemFP605,C-O-C-C:C
+PubchemFP606,O=C-C-O-C
+PubchemFP607,O-C:C-C-C
+PubchemFP608,N-C-C-C:C
+PubchemFP609,C-C-C-C:C
+PubchemFP610,Cl-C-C-N-C
+PubchemFP611,C-O-C-O-C
+PubchemFP612,N-C-C-N-C
+PubchemFP613,N-C-O-C-C
+PubchemFP614,C-N-C-C-C
+PubchemFP615,C-C-O-C-C
+PubchemFP616,N-C-C-O-C
+PubchemFP617,C:C:N:N:C
+PubchemFP618,C-C-C-O-[#1]
+PubchemFP619,C:C-C-C:C
+PubchemFP620,O-C-C=C-C
+PubchemFP621,C:C-O-C-C
+PubchemFP622,N-C:C:C:N
+PubchemFP623,O=C-O-C:C
+PubchemFP624,O=C-C:C-C
+PubchemFP625,O=C-C:C-N
+PubchemFP626,O=C-C:C-O
+PubchemFP627,C-O-C:C-C
+PubchemFP628,O=[As]-C:C:C
+PubchemFP629,C-N-C-C:C
+PubchemFP630,S-C:C:C-N
+PubchemFP631,O-C:C-O-C
+PubchemFP632,O-C:C-O-[#1]
+PubchemFP633,C-C-O-C:C
+PubchemFP634,N-C-C:C-C
+PubchemFP635,C-C-C:C-C
+PubchemFP636,N-N-C-N-[#1]
+PubchemFP637,C-N-C-N-C
+PubchemFP638,O-C-C-C-C
+PubchemFP639,O-C-C-C-N
+PubchemFP640,O-C-C-C-O
+PubchemFP641,C=C-C-C-C
+PubchemFP642,O-C-C-C=C
+PubchemFP643,O-C-C-C=O
+PubchemFP644,[#1]-C-C-N-[#1]
+PubchemFP645,C-C=N-N-C
+PubchemFP646,O=C-N-C-C
+PubchemFP647,O=C-N-C-[#1]
+PubchemFP648,O=C-N-C-N
+PubchemFP649,O=N-C:C-N
+PubchemFP650,O=N-C:C-O
+PubchemFP651,O=C-N-C=O
+PubchemFP652,O-C:C:C-C
+PubchemFP653,O-C:C:C-N
+PubchemFP654,O-C:C:C-O
+PubchemFP655,N-C-N-C-C
+PubchemFP656,O-C-C-C:C
+PubchemFP657,C-C-N-C-C
+PubchemFP658,C-N-C:C-C
+PubchemFP659,C-C-S-C-C
+PubchemFP660,O-C-C-N-C
+PubchemFP661,C-C=C-C-C
+PubchemFP662,O-C-O-C-C
+PubchemFP663,O-C-C-O-C
+PubchemFP664,O-C-C-O-[#1]
+PubchemFP665,C-C=C-C=C
+PubchemFP666,N-C:C-C-C
+PubchemFP667,C=C-C-O-C
+PubchemFP668,C=C-C-O-[#1]
+PubchemFP669,C-C:C-C-C
+PubchemFP670,Cl-C:C-C=O
+PubchemFP671,Br-C:C:C-C
+PubchemFP672,O=C-C=C-C
+PubchemFP673,O=C-C=C-[#1]
+PubchemFP674,O=C-C=C-N
+PubchemFP675,N-C-N-C:C
+PubchemFP676,Br-C-C-C:C
+PubchemFP677,N#C-C-C-C
+PubchemFP678,C-C=C-C:C
+PubchemFP679,C-C-C=C-C
+PubchemFP680,C-C-C-C-C-C
+PubchemFP681,O-C-C-C-C-C
+PubchemFP682,O-C-C-C-C-O
+PubchemFP683,O-C-C-C-C-N
+PubchemFP684,N-C-C-C-C-C
+PubchemFP685,O=C-C-C-C-C
+PubchemFP686,O=C-C-C-C-N
+PubchemFP687,O=C-C-C-C-O
+PubchemFP688,O=C-C-C-C=O
+PubchemFP689,C-C-C-C-C-C-C
+PubchemFP690,O-C-C-C-C-C-C
+PubchemFP691,O-C-C-C-C-C-O
+PubchemFP692,O-C-C-C-C-C-N
+PubchemFP693,O=C-C-C-C-C-C
+PubchemFP694,O=C-C-C-C-C-O
+PubchemFP695,O=C-C-C-C-C=O
+PubchemFP696,O=C-C-C-C-C-N
+PubchemFP697,C-C-C-C-C-C-C-C
+PubchemFP698,C-C-C-C-C-C(C)-C
+PubchemFP699,O-C-C-C-C-C-C-C
+PubchemFP700,O-C-C-C-C-C(C)-C
+PubchemFP701,O-C-C-C-C-C-O-C
+PubchemFP702,O-C-C-C-C-C(O)-C
+PubchemFP703,O-C-C-C-C-C-N-C
+PubchemFP704,O-C-C-C-C-C(N)-C
+PubchemFP705,O=C-C-C-C-C-C-C
+PubchemFP706,O=C-C-C-C-C(O)-C
+PubchemFP707,O=C-C-C-C-C(=O)-C
+PubchemFP708,O=C-C-C-C-C(N)-C
+PubchemFP709,C-C(C)-C-C
+PubchemFP710,C-C(C)-C-C-C
+PubchemFP711,C-C-C(C)-C-C
+PubchemFP712,C-C(C)(C)-C-C
+PubchemFP713,C-C(C)-C(C)-C
+PubchemFP714,Cc1ccc(C)cc1
+PubchemFP715,Cc1ccc(O)cc1
+PubchemFP716,Cc1ccc(S)cc1
+PubchemFP717,Cc1ccc(N)cc1
+PubchemFP718,Cc1ccc(Cl)cc1
+PubchemFP719,Cc1ccc(Br)cc1
+PubchemFP720,Oc1ccc(O)cc1
+PubchemFP721,Oc1ccc(S)cc1
+PubchemFP722,Oc1ccc(N)cc1
+PubchemFP723,Oc1ccc(Cl)cc1
+PubchemFP724,Oc1ccc(Br)cc1
+PubchemFP725,Sc1ccc(S)cc1
+PubchemFP726,Sc1ccc(N)cc1
+PubchemFP727,Sc1ccc(Cl)cc1
+PubchemFP728,Sc1ccc(Br)cc1
+PubchemFP729,Nc1ccc(N)cc1
+PubchemFP730,Nc1ccc(Cl)cc1
+PubchemFP731,Nc1ccc(Br)cc1
+PubchemFP732,Clc1ccc(Cl)cc1
+PubchemFP733,Clc1ccc(Br)cc1
+PubchemFP734,Brc1ccc(Br)cc1
+PubchemFP735,Cc1cc(C)ccc1
+PubchemFP736,Cc1cc(O)ccc1
+PubchemFP737,Cc1cc(S)ccc1
+PubchemFP738,Cc1cc(N)ccc1
+PubchemFP739,Cc1cc(Cl)ccc1
+PubchemFP740,Cc1cc(Br)ccc1
+PubchemFP741,Oc1cc(O)ccc1
+PubchemFP742,Oc1cc(S)ccc1
+PubchemFP743,Oc1cc(N)ccc1
+PubchemFP744,Oc1cc(Cl)ccc1
+PubchemFP745,Oc1cc(Br)ccc1
+PubchemFP746,Sc1cc(S)ccc1
+PubchemFP747,Sc1cc(N)ccc1
+PubchemFP748,Sc1cc(Cl)ccc1
+PubchemFP749,Sc1cc(Br)ccc1
+PubchemFP750,Nc1cc(N)ccc1
+PubchemFP751,Nc1cc(Cl)ccc1
+PubchemFP752,Nc1cc(Br)ccc1
+PubchemFP753,Clc1cc(Cl)ccc1
+PubchemFP754,Clc1cc(Br)ccc1
+PubchemFP755,Brc1cc(Br)ccc1
+PubchemFP756,Cc1c(C)cccc1
+PubchemFP757,Cc1c(O)cccc1
+PubchemFP758,Cc1c(S)cccc1
+PubchemFP759,Cc1c(N)cccc1
+PubchemFP760,Cc1c(Cl)cccc1
+PubchemFP761,Cc1c(Br)cccc1
+PubchemFP762,Oc1c(O)cccc1
+PubchemFP763,Oc1c(S)cccc1
+PubchemFP764,Oc1c(N)cccc1
+PubchemFP765,Oc1c(Cl)cccc1
+PubchemFP766,Oc1c(Br)cccc1
+PubchemFP767,Sc1c(S)cccc1
+PubchemFP768,Sc1c(N)cccc1
+PubchemFP769,Sc1c(Cl)cccc1
+PubchemFP770,Sc1c(Br)cccc1
+PubchemFP771,Nc1c(N)cccc1
+PubchemFP772,Nc1c(Cl)cccc1
+PubchemFP773,Nc1c(Br)cccc1
+PubchemFP774,Clc1c(Cl)cccc1
+PubchemFP775,Clc1c(Br)cccc1
+PubchemFP776,Brc1c(Br)cccc1
+PubchemFP777,CC1CCC(C)CC1
+PubchemFP778,CC1CCC(O)CC1
+PubchemFP779,CC1CCC(S)CC1
+PubchemFP780,CC1CCC(N)CC1
+PubchemFP781,CC1CCC(Cl)CC1
+PubchemFP782,CC1CCC(Br)CC1
+PubchemFP783,OC1CCC(O)CC1
+PubchemFP784,OC1CCC(S)CC1
+PubchemFP785,OC1CCC(N)CC1
+PubchemFP786,OC1CCC(Cl)CC1
+PubchemFP787,OC1CCC(Br)CC1
+PubchemFP788,SC1CCC(S)CC1
+PubchemFP789,SC1CCC(N)CC1
+PubchemFP790,SC1CCC(Cl)CC1
+PubchemFP791,SC1CCC(Br)CC1
+PubchemFP792,NC1CCC(N)CC1
+PubchemFP793,NC1CCC(Cl)CC1
+PubchemFP794,NC1CCC(Br)CC1
+PubchemFP795,ClC1CCC(Cl)CC1
+PubchemFP796,ClC1CCC(Br)CC1
+PubchemFP797,BrC1CCC(Br)CC1
+PubchemFP798,CC1CC(C)CCC1
+PubchemFP799,CC1CC(O)CCC1
+PubchemFP800,CC1CC(S)CCC1
+PubchemFP801,CC1CC(N)CCC1
+PubchemFP802,CC1CC(Cl)CCC1
+PubchemFP803,CC1CC(Br)CCC1
+PubchemFP804,OC1CC(O)CCC1
+PubchemFP805,OC1CC(S)CCC1
+PubchemFP806,OC1CC(N)CCC1
+PubchemFP807,OC1CC(Cl)CCC1
+PubchemFP808,OC1CC(Br)CCC1
+PubchemFP809,SC1CC(S)CCC1
+PubchemFP810,SC1CC(N)CCC1
+PubchemFP811,SC1CC(Cl)CCC1
+PubchemFP812,SC1CC(Br)CCC1
+PubchemFP813,NC1CC(N)CCC1
+PubchemFP814,NC1CC(Cl)CCC1
+PubchemFP815,NC1CC(Br)CCC1
+PubchemFP816,ClC1CC(Cl)CCC1
+PubchemFP817,ClC1CC(Br)CCC1
+PubchemFP818,BrC1CC(Br)CCC1
+PubchemFP819,CC1C(C)CCCC1
+PubchemFP820,CC1C(O)CCCC1
+PubchemFP821,CC1C(S)CCCC1
+PubchemFP822,CC1C(N)CCCC1
+PubchemFP823,CC1C(Cl)CCCC1
+PubchemFP824,CC1C(Br)CCCC1
+PubchemFP825,OC1C(O)CCCC1
+PubchemFP826,OC1C(S)CCCC1
+PubchemFP827,OC1C(N)CCCC1
+PubchemFP828,OC1C(Cl)CCCC1
+PubchemFP829,OC1C(Br)CCCC1
+PubchemFP830,SC1C(S)CCCC1
+PubchemFP831,SC1C(N)CCCC1
+PubchemFP832,SC1C(Cl)CCCC1
+PubchemFP833,SC1C(Br)CCCC1
+PubchemFP834,NC1C(N)CCCC1
+PubchemFP835,NC1C(Cl)CCCC1
+PubchemFP836,NC1C(Br)CCCC1
+PubchemFP837,ClC1C(Cl)CCCC1
+PubchemFP838,ClC1C(Br)CCCC1
+PubchemFP839,BrC1C(Br)CCCC1
+PubchemFP840,CC1CC(C)CC1
+PubchemFP841,CC1CC(O)CC1
+PubchemFP842,CC1CC(S)CC1
+PubchemFP843,CC1CC(N)CC1
+PubchemFP844,CC1CC(Cl)CC1
+PubchemFP845,CC1CC(Br)CC1
+PubchemFP846,OC1CC(O)CC1
+PubchemFP847,OC1CC(S)CC1
+PubchemFP848,OC1CC(N)CC1
+PubchemFP849,OC1CC(Cl)CC1
+PubchemFP850,OC1CC(Br)CC1
+PubchemFP851,SC1CC(S)CC1
+PubchemFP852,SC1CC(N)CC1
+PubchemFP853,SC1CC(Cl)CC1
+PubchemFP854,SC1CC(Br)CC1
+PubchemFP855,NC1CC(N)CC1
+PubchemFP856,NC1CC(Cl)CC1
+PubchemFP857,NC1CC(Br)CC1
+PubchemFP858,ClC1CC(Cl)CC1
+PubchemFP859,ClC1CC(Br)CC1
+PubchemFP860,BrC1CC(Br)CC1
+PubchemFP861,CC1C(C)CCC1
+PubchemFP862,CC1C(O)CCC1
+PubchemFP863,CC1C(S)CCC1
+PubchemFP864,CC1C(N)CCC1
+PubchemFP865,CC1C(Cl)CCC1
+PubchemFP866,CC1C(Br)CCC1
+PubchemFP867,OC1C(O)CCC1
+PubchemFP868,OC1C(S)CCC1
+PubchemFP869,OC1C(N)CCC1
+PubchemFP870,OC1C(Cl)CCC1
+PubchemFP871,OC1C(Br)CCC1
+PubchemFP872,SC1C(S)CCC1
+PubchemFP873,SC1C(N)CCC1
+PubchemFP874,SC1C(Cl)CCC1
+PubchemFP875,SC1C(Br)CCC1
+PubchemFP876,NC1C(N)CCC1
+PubchemFP877,NC1C(Cl)CC1
+PubchemFP878,NC1C(Br)CCC1
+PubchemFP879,ClC1C(Cl)CCC1
+PubchemFP880,ClC1C(Br)CCC1
+PubchemFP881,BrC1C(Br)CCC1
